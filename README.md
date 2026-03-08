@@ -1,4 +1,3 @@
-# Zeba Manuscript Sanity Check
 # ⛏️ Zeba Manuscript Sanity Check
 **Zeba Manuscript Sanity Check** is a specialized automation tool designed for authors, editors, and small publishers to bridge the gap between a raw manuscript and a production-ready document.
 

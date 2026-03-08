@@ -17,7 +17,7 @@ This repository contains two core modules:
 For developers or interns looking to contribute or understand the backend:
 1. **Environment Setup**:
 ```bash
-pip install streamlit lxml python-docx onixcheck
+pip install streamlit python-docx
 ```
 
 2. **Input Parsing**: The tool reads `.txt` files or text areas line-by-line, mapping `Key: Value` pairs into a Python dictionary.

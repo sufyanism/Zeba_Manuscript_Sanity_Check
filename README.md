@@ -3,7 +3,6 @@
 
 This repository contains two core modules:
 1. **Manuscript Cleaner**: A tool to audit headings and fix typographic inconsistencies in `.docx` files.
-2. **Metadata Multiplier**: A converter that transforms simple text into industry-standard **ONIX 3.0**, **Dublin Core**, and **JSON-LD** formats.
 
 ## 🚀 Features
 ### 1. Manuscript Audit & Cleanup

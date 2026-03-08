@@ -73,6 +73,17 @@ streamlit run app.py
 
 ```
 
+## ☁️ Deployment on Railway
+
+This project is configured for one-click deployment on [Railway](https://railway.app/).
+
+1. **Fork this repository** to your GitHub account.
+2. **Create a new Project** on Railway and select "Deploy from GitHub repo".
+3. **Automatic Detection**: Railway will use the `railway.json` and `requirements.txt` to:
+* Install Python and dependencies (`lxml`, `streamlit`, `python-docx`).
+* Start the Streamlit server on the correct port.
+
+
 ## Screenshot
 <img width="1177" height="772" alt="Zeba_Manuscript_Sanity_Check" src="https://github.com/user-attachments/assets/690e73c5-dcaf-4659-85ff-467569dd116d" />
 

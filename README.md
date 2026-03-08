@@ -12,12 +12,6 @@ This repository contains two core modules:
 * **Smart Quote Conversion**: Applies a heuristic to replace "straight" quotes with curly (typographic) quotes based on surrounding characters.
 * **Sanity Reporting**: Generates a live log of every change made, which can be exported as a text file.
 
-### 2. Metadata Multiplier
-* **ONIX 3.0 Generation**: Creates distributor-ready XML files for Amazon, Ingram, and others.
-* **Dublin Core**: Generates library-standard XML for archival and institutional discovery.
-* **JSON-LD**: Produces Schema.org 'Book' objects to boost SEO and search engine visibility.
-* **Live Preview**: Allows you to see a bolded, human-readable preview of your parsed data before downloading.
-
 ---
 
 ## 🛠️ Technical Steps

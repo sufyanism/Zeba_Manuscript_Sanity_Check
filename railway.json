@@ -3,6 +3,7 @@
         "builder": "NIXPACKS"
     },
     "deploy": {
-        "startCommand": "streamlit run Semantic_HTML_Cleaner.py --server.address 0.0.0.0 --server.port $PORT --server.fileWatcherType none --browser.gatherUsageStats false --client.toolbarMode minimal"
+        "startCommand": "streamlit run app.py --server.address 0.0.0.0 --server.port $PORT --server.fileWatcherType none --browser.gatherUsageStats false --client.toolbarMode minimal"
     }
+
 }
